@@ -1,3 +1,8 @@
+/* Guess Validator Function: Bage 2
+ * Adds counting turns, quit with q, and validating guess
+ * By Max Spoth
+
+
 var answer = Math.floor(Math.random()*100)+1;
 console.log(answer);
 var guess = 0;
